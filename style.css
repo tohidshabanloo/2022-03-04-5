@@ -1,0 +1,32 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.box{
+    align-items: center;
+    margin-top: 150px ;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid rgba(167, 167, 167, 0.454);
+    border-radius: 1px;
+    background-color: azure;
+    
+}
+.details{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.button{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid rgb(255, 226, 5);
+    background-color: white;
+    color: rgb(255, 226, 5);
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
